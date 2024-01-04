@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @6Mushahid9
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on real life projects
 - 📫 How to reach me --> search for "mushahid_boi" on insta
